@@ -3,6 +3,7 @@
 
 Amazon ECS を使ってコンテナアプリをデプロイする。
 
+![meetup-v8](https://user-images.githubusercontent.com/66664167/87710416-b6b2e300-c7e0-11ea-8e21-ed44795b4cbc.jpg)
 
 ## ① EC2 向け IAMロールの作成
 
